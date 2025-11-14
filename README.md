@@ -1,3 +1,12 @@
+# MetaUrban-Enhanced
+
+## TODO:
+- [ ] Fix the other agent's info update
+- [ ] Add ORCA based data collection for Dynamic Scene
+- [ ] Fix evaluation algorithm
+
+---
+
 ![](documentation/source/figs/logo_white.png)
 
 # MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility
