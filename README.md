@@ -1,5 +1,7 @@
 # MetaUrban-Enhanced
 
+This repo is to enhance the original implementation of MetaUrban which is discountinued project due to new release of [UrbanSim](https://github.com/metadriverse/urban-sim)
+
 ## TODO:
 - [ ] Fix the other agent's info update
 - [ ] Add ORCA based data collection for Dynamic Scene
