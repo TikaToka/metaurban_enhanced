@@ -6,6 +6,7 @@ This repo is to enhance the original implementation of MetaUrban which is discou
 - [ ] Fix the other agent's info update
 - [ ] Add ORCA based data collection for Dynamic Scene
 - [ ] Fix evaluation algorithm
+- [ ] Fix ingnored components in simulator
 
 ---
 
