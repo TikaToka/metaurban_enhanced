@@ -1,6 +1,6 @@
 # MetaUrban-Enhanced
 
-This repo is to enhance the original implementation of MetaUrban which is discountinued project due to new release of [UrbanSim](https://github.com/metadriverse/urban-sim)
+This repository provides enhancements to the original MetaUrban implementation, which was discontinued after the release of the new version of [UrbanSim](https://github.com/metadriverse/urban-sim).
 
 ## TODO:
 - [ ] Fix the other agent's info update
