@@ -2,7 +2,7 @@
 
 This repository provides enhancements to the original MetaUrban implementation, which was discontinued after the release of the new version of [UrbanSim](https://github.com/metadriverse/urban-sim).
 
-### Due to on-going paper work, This repo will updated early 2026.
+### Due to on-going paper work, This repo will be updated in early 2026.
 
 ## TODO:
 - [ ] Fix the other agent's info update
